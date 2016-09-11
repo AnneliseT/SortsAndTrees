@@ -19,7 +19,6 @@ using namespace std;
 class AVLTree {
 private:
     bNode *root;
-    //void addNode(double value, bNode *leaf);
     void freeNode(bNode *leaf);
 public:
     //constructor & destructore
@@ -28,9 +27,6 @@ public:
     
     //getters
     bNode *Root() {return root;}
-    
-    //setters
-    //void setHeight(bNode *);
     
     //node operations
     bNode *addNode(bNode *,double value);

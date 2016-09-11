@@ -112,10 +112,10 @@
 		A0BD48051D84C03000ACE8BF /* BinaryTree */ = {
 			isa = PBXGroup;
 			children = (
-				A0BD48011D834BC800ACE8BF /* node.cpp */,
-				A0BD47FE1D834BA200ACE8BF /* binary_tree.cpp */,
 				A0BD47FF1D834BA200ACE8BF /* binary_tree.hpp */,
 				A0BD48021D834BC800ACE8BF /* node.hpp */,
+				A0BD47FE1D834BA200ACE8BF /* binary_tree.cpp */,
+				A0BD48011D834BC800ACE8BF /* node.cpp */,
 			);
 			name = BinaryTree;
 			sourceTree = "<group>";
@@ -123,10 +123,10 @@
 		A0BD48061D84C1BE00ACE8BF /* AVLTree */ = {
 			isa = PBXGroup;
 			children = (
-				A0BD48071D84C2EC00ACE8BF /* bNode.cpp */,
-				A0BD480A1D84C3BE00ACE8BF /* AVLTree.cpp */,
 				A0BD480B1D84C3BE00ACE8BF /* AVLTree.hpp */,
 				A0BD48081D84C2EC00ACE8BF /* bNode.hpp */,
+				A0BD480A1D84C3BE00ACE8BF /* AVLTree.cpp */,
+				A0BD48071D84C2EC00ACE8BF /* bNode.cpp */,
 			);
 			name = AVLTree;
 			sourceTree = "<group>";

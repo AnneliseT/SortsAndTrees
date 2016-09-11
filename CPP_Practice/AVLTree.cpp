@@ -83,7 +83,6 @@ bNode *AVLTree::balance(bNode *leaf) {
 }
 
 
-
 //rotates the tree or sub tree right
 bNode *AVLTree::rrRotate(bNode *parent) {
     bNode *temp;
@@ -120,7 +119,7 @@ bNode *AVLTree::lrRotate(bNode  *parent) {
 }
 
 
-
+//Displays the tree structure. the tree is displayed horizontally from left to right.
 void AVLTree::display(bNode *ptr, int level) {
     int i;
     if (ptr!=NULL)

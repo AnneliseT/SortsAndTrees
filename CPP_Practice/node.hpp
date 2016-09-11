@@ -17,16 +17,13 @@ private:
     Node *Rchild;
     Node *parent;
     double value;
-    double h;
 public:
     Node();
     Node(double value);
     void SetLchild(Node *l) {Lchild = l;}
     void SetRchild(Node *r) {Rchild = r;}
     void SetParent(Node *p) {parent = p;}
-    void SetHeight(double height) {h = height;}
     void SetValue(double value) {this->value = value;}
-    double height() {return h;}
     Node *Left() {return Lchild;}
     Node *Right() {return Rchild;}
     Node *Parent() {return parent;}

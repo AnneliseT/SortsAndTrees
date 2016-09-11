@@ -19,7 +19,6 @@ private:
     bNode *Rchild;
     bNode *parent;
     double value;
-    double h;
 public:
     //constructors
     bNode();
@@ -29,11 +28,9 @@ public:
     void SetLchild(bNode *l) {Lchild = l;}
     void SetRchild(bNode *r) {Rchild = r;}
     void SetParent(bNode *p) {parent = p;}
-    void SetHeight(double height) {h = height;}
     void SetValue(double value) {this->value = value;}
     
     //getters
-    double height() {return h;}
     bNode *Left() {return Lchild;}
     bNode *Right() {return Rchild;}
     bNode *Parent() {return parent;}
