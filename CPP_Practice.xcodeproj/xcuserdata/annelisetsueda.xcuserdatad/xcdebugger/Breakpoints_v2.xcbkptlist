@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CPP_Practice/main.cpp"
-            timestampString = "495307764.854488"
+            timestampString = "496509466.054888"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
             landmarkName = "main()"
             landmarkType = "7">
          </BreakpointContent>
@@ -74,12 +74,12 @@
                   moduleName = "CPP_Practice"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/annelisetsueda/Documents/CPP_Practice/CPP_Practice/CPP_Practice/bNode.cpp"
-                  timestampString = "495308325.100703"
+                  timestampString = "496468126.476472"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "12"
-                  endingLineNumber = "12"
-                  offsetFromSymbolStart = "15">
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -89,14 +89,28 @@
                   moduleName = "CPP_Practice"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/annelisetsueda/Documents/CPP_Practice/CPP_Practice/CPP_Practice/bNode.cpp"
-                  timestampString = "495308325.100993"
+                  timestampString = "496468126.476572"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "11"
                   endingLineNumber = "11"
-                  offsetFromSymbolStart = "16">
+                  offsetFromSymbolStart = "21">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CPP_Practice/BinarySearch.hpp"
+            timestampString = "496468049.775436"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

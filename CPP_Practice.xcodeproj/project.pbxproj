@@ -13,10 +13,16 @@
 		A02A56021D7E5412006E26EF /* selection_sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A02A56001D7E5412006E26EF /* selection_sort.cpp */; };
 		A02A56051D7E546B006E26EF /* TopDownMergeSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A02A56031D7E546B006E26EF /* TopDownMergeSort.cpp */; };
 		A02A56081D7E57A6006E26EF /* BottomUpMergeSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A02A56061D7E57A6006E26EF /* BottomUpMergeSort.cpp */; };
+		A02B450B1D9787E2002C1A72 /* FibSearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A02B45091D9787E2002C1A72 /* FibSearch.cpp */; };
+		A02B450F1D97935A002C1A72 /* GNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A02B450D1D97935A002C1A72 /* GNode.cpp */; };
+		A02B45121D9793E3002C1A72 /* graph.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A02B45101D9793E3002C1A72 /* graph.cpp */; };
+		A02B45151D979440002C1A72 /* AdjList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A02B45131D979440002C1A72 /* AdjList.cpp */; };
+		A02B45181D97950F002C1A72 /* BucketSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A02B45161D97950F002C1A72 /* BucketSort.cpp */; };
 		A0BD48001D834BA200ACE8BF /* binary_tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BD47FE1D834BA200ACE8BF /* binary_tree.cpp */; };
 		A0BD48031D834BC800ACE8BF /* node.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BD48011D834BC800ACE8BF /* node.cpp */; };
 		A0BD48091D84C2EC00ACE8BF /* bNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BD48071D84C2EC00ACE8BF /* bNode.cpp */; };
 		A0BD480C1D84C3BE00ACE8BF /* AVLTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BD480A1D84C3BE00ACE8BF /* AVLTree.cpp */; };
+		A0DB6CE81D976BFF00EDFF8D /* BinarySearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0DB6CE61D976BFF00EDFF8D /* BinarySearch.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -44,6 +50,17 @@
 		A02A56041D7E546B006E26EF /* TopDownMergeSort.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = TopDownMergeSort.hpp; sourceTree = "<group>"; };
 		A02A56061D7E57A6006E26EF /* BottomUpMergeSort.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BottomUpMergeSort.cpp; sourceTree = "<group>"; };
 		A02A56071D7E57A6006E26EF /* BottomUpMergeSort.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BottomUpMergeSort.hpp; sourceTree = "<group>"; };
+		A02B45091D9787E2002C1A72 /* FibSearch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FibSearch.cpp; sourceTree = "<group>"; };
+		A02B450A1D9787E2002C1A72 /* FibSearch.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = FibSearch.hpp; sourceTree = "<group>"; };
+		A02B450D1D97935A002C1A72 /* GNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GNode.cpp; sourceTree = "<group>"; };
+		A02B450E1D97935A002C1A72 /* GNode.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = GNode.hpp; sourceTree = "<group>"; };
+		A02B45101D9793E3002C1A72 /* graph.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = graph.cpp; sourceTree = "<group>"; };
+		A02B45111D9793E3002C1A72 /* graph.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = graph.hpp; sourceTree = "<group>"; };
+		A02B45131D979440002C1A72 /* AdjList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AdjList.cpp; sourceTree = "<group>"; };
+		A02B45141D979440002C1A72 /* AdjList.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = AdjList.hpp; sourceTree = "<group>"; };
+		A02B45161D97950F002C1A72 /* BucketSort.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BucketSort.cpp; sourceTree = "<group>"; };
+		A02B45171D97950F002C1A72 /* BucketSort.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BucketSort.hpp; sourceTree = "<group>"; };
+		A02B45191D982192002C1A72 /* basics.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = basics.h; sourceTree = "<group>"; };
 		A0BD47FE1D834BA200ACE8BF /* binary_tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = binary_tree.cpp; sourceTree = "<group>"; };
 		A0BD47FF1D834BA200ACE8BF /* binary_tree.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = binary_tree.hpp; sourceTree = "<group>"; };
 		A0BD48011D834BC800ACE8BF /* node.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = node.cpp; sourceTree = "<group>"; };
@@ -52,6 +69,8 @@
 		A0BD48081D84C2EC00ACE8BF /* bNode.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = bNode.hpp; sourceTree = "<group>"; };
 		A0BD480A1D84C3BE00ACE8BF /* AVLTree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AVLTree.cpp; sourceTree = "<group>"; };
 		A0BD480B1D84C3BE00ACE8BF /* AVLTree.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = AVLTree.hpp; sourceTree = "<group>"; };
+		A0DB6CE61D976BFF00EDFF8D /* BinarySearch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BinarySearch.cpp; sourceTree = "<group>"; };
+		A0DB6CE71D976BFF00EDFF8D /* BinarySearch.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BinarySearch.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,11 +104,26 @@
 			isa = PBXGroup;
 			children = (
 				A02A55F11D7E36E6006E26EF /* main.cpp */,
+				A02B45191D982192002C1A72 /* basics.h */,
+				A02B450C1D979342002C1A72 /* Graphs */,
 				A0BD48061D84C1BE00ACE8BF /* AVLTree */,
 				A0BD48051D84C03000ACE8BF /* BinaryTree */,
 				A0BD48041D84BF9B00ACE8BF /* Sorts */,
 			);
 			path = CPP_Practice;
+			sourceTree = "<group>";
+		};
+		A02B450C1D979342002C1A72 /* Graphs */ = {
+			isa = PBXGroup;
+			children = (
+				A02B450E1D97935A002C1A72 /* GNode.hpp */,
+				A02B45111D9793E3002C1A72 /* graph.hpp */,
+				A02B45141D979440002C1A72 /* AdjList.hpp */,
+				A02B45131D979440002C1A72 /* AdjList.cpp */,
+				A02B450D1D97935A002C1A72 /* GNode.cpp */,
+				A02B45101D9793E3002C1A72 /* graph.cpp */,
+			);
+			name = Graphs;
 			sourceTree = "<group>";
 		};
 		A0BD48041D84BF9B00ACE8BF /* Sorts */ = {
@@ -100,11 +134,17 @@
 				A02A56011D7E5412006E26EF /* selection_sort.hpp */,
 				A02A55FE1D7E53AF006E26EF /* insertionsort.hpp */,
 				A02A55FB1D7E5305006E26EF /* quicksort.hpp */,
+				A0DB6CE71D976BFF00EDFF8D /* BinarySearch.hpp */,
+				A02B450A1D9787E2002C1A72 /* FibSearch.hpp */,
+				A02B45171D97950F002C1A72 /* BucketSort.hpp */,
 				A02A56061D7E57A6006E26EF /* BottomUpMergeSort.cpp */,
 				A02A56031D7E546B006E26EF /* TopDownMergeSort.cpp */,
 				A02A55FD1D7E53AF006E26EF /* insertionsort.cpp */,
 				A02A56001D7E5412006E26EF /* selection_sort.cpp */,
 				A02A55FA1D7E5305006E26EF /* quicksort.cpp */,
+				A0DB6CE61D976BFF00EDFF8D /* BinarySearch.cpp */,
+				A02B45091D9787E2002C1A72 /* FibSearch.cpp */,
+				A02B45161D97950F002C1A72 /* BucketSort.cpp */,
 			);
 			name = Sorts;
 			sourceTree = "<group>";
@@ -190,13 +230,19 @@
 				A0BD48091D84C2EC00ACE8BF /* bNode.cpp in Sources */,
 				A0BD48001D834BA200ACE8BF /* binary_tree.cpp in Sources */,
 				A02A56021D7E5412006E26EF /* selection_sort.cpp in Sources */,
+				A0DB6CE81D976BFF00EDFF8D /* BinarySearch.cpp in Sources */,
 				A02A55FF1D7E53AF006E26EF /* insertionsort.cpp in Sources */,
+				A02B45181D97950F002C1A72 /* BucketSort.cpp in Sources */,
 				A02A56051D7E546B006E26EF /* TopDownMergeSort.cpp in Sources */,
+				A02B45121D9793E3002C1A72 /* graph.cpp in Sources */,
 				A0BD480C1D84C3BE00ACE8BF /* AVLTree.cpp in Sources */,
 				A02A55F21D7E36E6006E26EF /* main.cpp in Sources */,
 				A02A56081D7E57A6006E26EF /* BottomUpMergeSort.cpp in Sources */,
+				A02B450B1D9787E2002C1A72 /* FibSearch.cpp in Sources */,
 				A02A55FC1D7E5305006E26EF /* quicksort.cpp in Sources */,
 				A0BD48031D834BC800ACE8BF /* node.cpp in Sources */,
+				A02B45151D979440002C1A72 /* AdjList.cpp in Sources */,
+				A02B450F1D97935A002C1A72 /* GNode.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

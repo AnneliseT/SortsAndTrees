@@ -25,6 +25,7 @@ public:
     void InOrder(Node *);
     void PreOrder(Node *);
     void PostOrder(Node *);
+    void BFS(Node *);
 };
 
 #endif /* binary_tree_hpp */

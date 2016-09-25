@@ -24,8 +24,8 @@ void QuickSort(int arr[], int left, int right) {
         if (i<=j) {
             tmp = arr[i];
             //cout<<"tmp: "<<tmp<<endl;
-            arr[i]= arr[j];
-            arr[j] =tmp;
+            arr[i] = arr[j];
+            arr[j] = tmp;
             //cout<<"arr[i]"<<arr[i]<<endl;
             i++;
             j--;
