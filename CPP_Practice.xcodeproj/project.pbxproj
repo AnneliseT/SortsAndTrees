@@ -23,6 +23,8 @@
 		A05A93211D9C0F760058170B /* HashMap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A05A931F1D9C0F760058170B /* HashMap.cpp */; };
 		A05A93251D9C34040058170B /* LinkedHashEntry.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A05A93231D9C34040058170B /* LinkedHashEntry.cpp */; };
 		A05A93281D9C35D40058170B /* LinkedHashMap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A05A93261D9C35D40058170B /* LinkedHashMap.cpp */; };
+		A05A932C1D9C4C4A0058170B /* RHashEntry.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A05A932A1D9C4C4A0058170B /* RHashEntry.cpp */; };
+		A05A932F1D9C4CDD0058170B /* RHashMap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A05A932D1D9C4CDD0058170B /* RHashMap.cpp */; };
 		A0BD48001D834BA200ACE8BF /* binary_tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BD47FE1D834BA200ACE8BF /* binary_tree.cpp */; };
 		A0BD48031D834BC800ACE8BF /* node.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BD48011D834BC800ACE8BF /* node.cpp */; };
 		A0BD48091D84C2EC00ACE8BF /* bNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BD48071D84C2EC00ACE8BF /* bNode.cpp */; };
@@ -76,6 +78,10 @@
 		A05A93241D9C34040058170B /* LinkedHashEntry.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = LinkedHashEntry.hpp; sourceTree = "<group>"; };
 		A05A93261D9C35D40058170B /* LinkedHashMap.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LinkedHashMap.cpp; sourceTree = "<group>"; };
 		A05A93271D9C35D40058170B /* LinkedHashMap.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = LinkedHashMap.hpp; sourceTree = "<group>"; };
+		A05A932A1D9C4C4A0058170B /* RHashEntry.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RHashEntry.cpp; sourceTree = "<group>"; };
+		A05A932B1D9C4C4A0058170B /* RHashEntry.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = RHashEntry.hpp; sourceTree = "<group>"; };
+		A05A932D1D9C4CDD0058170B /* RHashMap.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RHashMap.cpp; sourceTree = "<group>"; };
+		A05A932E1D9C4CDD0058170B /* RHashMap.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = RHashMap.hpp; sourceTree = "<group>"; };
 		A0BD47FE1D834BA200ACE8BF /* binary_tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = binary_tree.cpp; sourceTree = "<group>"; };
 		A0BD47FF1D834BA200ACE8BF /* binary_tree.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = binary_tree.hpp; sourceTree = "<group>"; };
 		A0BD48011D834BC800ACE8BF /* node.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = node.cpp; sourceTree = "<group>"; };
@@ -127,6 +133,7 @@
 				A02B451D1D9A0E04002C1A72 /* ATOI */,
 				A05A931B1D9C0E340058170B /* HashTable */,
 				A05A93221D9C33E00058170B /* LinkedHashTable */,
+				A05A93291D9C4C0C0058170B /* ResizeHashTable */,
 			);
 			path = CPP_Practice;
 			sourceTree = "<group>";
@@ -173,6 +180,17 @@
 				A05A93261D9C35D40058170B /* LinkedHashMap.cpp */,
 			);
 			name = LinkedHashTable;
+			sourceTree = "<group>";
+		};
+		A05A93291D9C4C0C0058170B /* ResizeHashTable */ = {
+			isa = PBXGroup;
+			children = (
+				A05A932A1D9C4C4A0058170B /* RHashEntry.cpp */,
+				A05A932B1D9C4C4A0058170B /* RHashEntry.hpp */,
+				A05A932D1D9C4CDD0058170B /* RHashMap.cpp */,
+				A05A932E1D9C4CDD0058170B /* RHashMap.hpp */,
+			);
+			name = ResizeHashTable;
 			sourceTree = "<group>";
 		};
 		A0BD48041D84BF9B00ACE8BF /* Sorts */ = {
@@ -277,6 +295,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0BD48091D84C2EC00ACE8BF /* bNode.cpp in Sources */,
+				A05A932F1D9C4CDD0058170B /* RHashMap.cpp in Sources */,
 				A0BD48001D834BA200ACE8BF /* binary_tree.cpp in Sources */,
 				A05A93281D9C35D40058170B /* LinkedHashMap.cpp in Sources */,
 				A05A93211D9C0F760058170B /* HashMap.cpp in Sources */,
@@ -289,6 +308,7 @@
 				A02B45121D9793E3002C1A72 /* graph.cpp in Sources */,
 				A0BD480C1D84C3BE00ACE8BF /* AVLTree.cpp in Sources */,
 				A02A55F21D7E36E6006E26EF /* main.cpp in Sources */,
+				A05A932C1D9C4C4A0058170B /* RHashEntry.cpp in Sources */,
 				A02A56081D7E57A6006E26EF /* BottomUpMergeSort.cpp in Sources */,
 				A02B450B1D9787E2002C1A72 /* FibSearch.cpp in Sources */,
 				A02A55FC1D7E5305006E26EF /* quicksort.cpp in Sources */,

@@ -2,10 +2,10 @@ Sorts And Trees
 ================
 
 #Description:  
-This progject contains array sorting algorithms and functions to create, traverse and balance trees.
+This progject contains array sorting algorithms ,functions to create, traverse and balance trees, search algorithms, graphs, and hashtables. There is also a random Atoi function because I wanted to know how to implement that function.
 
 ##Purpose:  
-The purpose of this project was to create a set of the common sorting algorithms and to brush up on my tree building knowledge.
+This is a collection of data structures and algorithms that I created/collated using online resources. I did this to gain a better understanding of data structures and algorithms.
 
 ##Classes  
  *  bNode  
@@ -23,3 +23,10 @@ The purpose of this project was to create a set of the common sorting algorithms
     * Selection Sort
     * Top-Down Merge Sort
     * Bottom-Up Merge Sort
+
+##Sources:
+The code in this project is for practice only. Much of the code is based on online sources, the list of which is still being compiled.
+Some of these are:  
+ * <http://www.algolist.net/Data_structures/Hash_table/Dynamic_resizing>
+ * <http://www.algolist.net/Data_structures/Hash_table/Chaining>
+
