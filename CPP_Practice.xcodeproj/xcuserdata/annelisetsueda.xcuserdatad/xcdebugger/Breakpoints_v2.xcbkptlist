@@ -6,22 +6,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPP_Practice/main.cpp"
-            timestampString = "496509466.054888"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "main()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -74,7 +58,7 @@
                   moduleName = "CPP_Practice"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/annelisetsueda/Documents/CPP_Practice/CPP_Practice/CPP_Practice/bNode.cpp"
-                  timestampString = "496468126.476472"
+                  timestampString = "496775623.716805"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "11"
@@ -89,7 +73,7 @@
                   moduleName = "CPP_Practice"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/annelisetsueda/Documents/CPP_Practice/CPP_Practice/CPP_Practice/bNode.cpp"
-                  timestampString = "496468126.476572"
+                  timestampString = "496775623.71692"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "11"

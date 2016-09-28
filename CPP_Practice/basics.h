@@ -32,4 +32,16 @@
 //Graph with Adjacency List Implementation
 #include "graph.hpp"
 
+//Atoi() function
+#include "toInt.hpp"
+
+//simple hash map
+#include "HashMap.hpp"
+
+//hash map with chaining
+#include "LinkedHashMap.hpp"
+
+//hash map with resizing
+
+
 #endif /* basics_h */
