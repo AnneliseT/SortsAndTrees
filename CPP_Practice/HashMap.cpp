@@ -2,9 +2,9 @@
 //  HashMap.cpp
 //  CPP_Practice
 //
-//So i don't like htis implementation because there is no real collision handling. It uses linear probing to find a new spot wich is fine but the linear probing onthe get funciton makes this very slow. it takes alot of energy.
-//I don't particularly like chaining but that is going to be my next implementation.
-//Then i want to tackle the resizing.
+/*So i don't like this implementation because there is no real collision handling. 
+It uses linear probing to find a new spot which is fine but the linear probing on the get funciton makes this very slow. It takes alot of energy.
+*/
 
 
 #include "HashMap.hpp"

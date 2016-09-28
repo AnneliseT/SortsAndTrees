@@ -2,8 +2,6 @@
 //  toInt.hpp
 //  CPP_Practice
 //
-//  Created by Annelise Tsueda on 9/26/16.
-//  Copyright © 2016 Annelise Tsueda. All rights reserved.
 //
 
 #ifndef toInt_hpp

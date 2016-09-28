@@ -185,10 +185,10 @@
 		A05A93291D9C4C0C0058170B /* ResizeHashTable */ = {
 			isa = PBXGroup;
 			children = (
-				A05A932A1D9C4C4A0058170B /* RHashEntry.cpp */,
 				A05A932B1D9C4C4A0058170B /* RHashEntry.hpp */,
-				A05A932D1D9C4CDD0058170B /* RHashMap.cpp */,
 				A05A932E1D9C4CDD0058170B /* RHashMap.hpp */,
+				A05A932A1D9C4C4A0058170B /* RHashEntry.cpp */,
+				A05A932D1D9C4CDD0058170B /* RHashMap.cpp */,
 			);
 			name = ResizeHashTable;
 			sourceTree = "<group>";

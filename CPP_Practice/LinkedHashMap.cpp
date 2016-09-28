@@ -2,7 +2,7 @@
 //  LinkedHashMap.cpp
 //  CPP_Practice
 //
-//Taken From: http://www.algolist.net/Data_structures/Hash_table/Chaining
+//  Source : http://www.algolist.net/Data_structures/Hash_table/Chaining
 //
 
 #include "LinkedHashMap.hpp"
