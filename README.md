@@ -2,7 +2,7 @@ Sorts And Trees
 ================
 
 #Description:  
-This progject contains array sorting algorithms ,functions to create, traverse and balance trees, search algorithms, graphs, and hashtables. There is also a random Atoi function because I wanted to know how to implement that function.
+This project contains array sorting algorithms ,functions to create, traverse and balance trees, search algorithms, graphs, and hashtables. There is also a random Atoi function because I wanted to know how to implement that function.
 
 ##Purpose:  
 This is a collection of data structures and algorithms that I created/collated using online resources. I did this to gain a better understanding of data structures and algorithms.
@@ -36,7 +36,8 @@ This is a collection of data structures and algorithms that I created/collated u
     * used by the graph class to hold the vertices
   * graph
     * contains all the graph functionality for adding edges to the graph and printing the graph.
-* Hash Tables: Each Entry class holds key:value informatin. Each Map class contains the funtionality for adding entries, deleting entries, and handling collisions (except for the Simple Hash Table implementation.)
+* Hash Tables: 
+    Each Entry class holds key:value informatin. Each Map class contains the funtionality for adding entries, deleting entries, and handling collisions (except for the Simple Hash Table implementation.)
   * Simple Hash Table:
     * HashEntry
     * HashMap
