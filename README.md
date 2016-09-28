@@ -37,7 +37,9 @@ This is a collection of data structures and algorithms that I created/collated u
   * graph
     * contains all the graph functionality for adding edges to the graph and printing the graph.
 * Hash Tables: 
-    Each Entry class holds key:value informatin. Each Map class contains the funtionality for adding entries, deleting entries, and handling collisions (except for the Simple Hash Table implementation.)
+    > Each Entry class holds key:value informatin. Each Map class contains the funtionality for 
+    > adding entries, deleting entries, and handling collisions (except for the Simple Hash Table 
+    > implementation.)
   * Simple Hash Table:
     * HashEntry
     * HashMap
